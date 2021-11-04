@@ -21,9 +21,9 @@
 ![](https://img.shields.io/badge/‎-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ## 🔧 Familiar IDEs
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm_IDEA-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-VSCode-informational?style=flat&logo=Visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-PyCharm_IDEA-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
