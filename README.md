@@ -27,15 +27,13 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/dinuka-kasun-medis/dinuka-kasun-medis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinuka-kasun-medis&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dinuka-kasun-medis&show_icons=true&theme=transparent" />
 </a>
-<br/>
-<br/>
-<a href="https://github.com/dinuka-kasun-medis/dinuka-kasun-medis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinuka-kasun-medis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dinuka's GitHub Stats" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuka-kasun-medis&layout=compact&langs_count=8&card_width=320&theme=transparent&hide=html,css" />
 </a>
- 
+
 <!--
 **dinuka-kasun-medis/dinuka-kasun-medis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
