@@ -28,10 +28,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dinuka-kasun-medis&show_icons=true&theme=transparent" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=dinuka-kasun-medis&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuka-kasun-medis&layout=compact&langs_count=8&card_width=320&theme=transparent&hide=html,css" />
+  <img height=170 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuka-kasun-medis&layout=compact&langs_count=8&card_width=320&theme=transparent&hide=html,css" />
 </a>
 
 <!--
