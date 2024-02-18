@@ -9,21 +9,23 @@
 [![StackOverflow](https://img.shields.io/badge/‎-Stackoverflow-informational?style=flat&logo=Stackoverflow&logoColor=white&color=2bbc8a)](https://stackoverflow.com/users/5794787/dinuka-kasun-medis)
 [![Twitter](https://img.shields.io/badge/‎-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)](https://www.instagram.com/dinukakasunmedis)
 
-<!--## 💻 Familiar Technology Stacks
-![](https://img.shields.io/badge/‎-JAVA-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+## 💻 Familiar Technology Stacks
+![](https://img.shields.io/badge/‎-JAVA-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/‎-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-Jenkins-2496ED?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 
 ## 🔧 Familiar IDEs
 ![](https://img.shields.io/badge/‎-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-VSCode-informational?style=flat&logo=Visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/‎-PyCharm_IDEA-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)-->
+![](https://img.shields.io/badge/‎-PyCharm_IDEA-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
