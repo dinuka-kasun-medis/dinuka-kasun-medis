@@ -10,31 +10,34 @@
 [![Twitter](https://img.shields.io/badge/‎-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)](https://www.instagram.com/dinukakasunmedis)
 
 ## 💻 Familiar Technology Stacks
+
 ![](https://img.shields.io/badge/‎-JAVA-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/‎-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/‎-MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-HAPI%20FHIR-informational?style=flat&logo=hl7&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/‎-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/‎-Jenkins-2496ED?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/‎-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/ChatGPT-AI-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/‎-Claude-informational?style=flat&logo=anthropic&logoColor=white&color=2bbc8a)
+
 
 ## 🔧 Familiar IDEs
 ![](https://img.shields.io/badge/‎-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-VSCode-informational?style=flat&logo=Visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/‎-PyCharm_IDEA-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=dinuka-kasun-medis&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuka-kasun-medis&layout=compact&langs_count=8&card_width=320&theme=transparent&hide=html,css" />
-</a>
+
 
 <!--
 **dinuka-kasun-medis/dinuka-kasun-medis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
